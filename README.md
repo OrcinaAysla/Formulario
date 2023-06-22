@@ -9,7 +9,7 @@ Arquivo (s):
 
 Descrição: Pagina Web onde é possível enviar uma mensagem para um endereço.
 
-Tecnologias Utilizadas:
+Tecnologias Utilizadas: Google App Script.
 
 <ul>
   <li>Google app scrip</li>
